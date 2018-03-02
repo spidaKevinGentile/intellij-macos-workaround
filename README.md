@@ -1,5 +1,5 @@
 # intellij-macos-workaround
-Python script to execute IntelliJ with your .bash_profile on MacOS
+Python3 script to execute IntelliJ with your .bash_profile on MacOS
 
 rename and copy this file into your bin
 
